@@ -4,6 +4,6 @@
 
 ## Days
 
-| No. |   Preview    |                                            Description                                            | Status |
-| :-: | :----------: | :-----------------------------------------------------------------------------------------------: | :----: |
-| 01  | Landing Page | ![01 design](https://raw.githubusercontent.com/oliver-gomes/design-to-react/master/images/01.png) |   🛠    |
+| No. |   Preview    |              Description              | Status |
+| :-: | :----------: | :-----------------------------------: | :----: |
+| 01  | Landing Page | <img src="images/01.png" width="100"> |   🛠    |
