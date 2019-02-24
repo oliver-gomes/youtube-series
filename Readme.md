@@ -2,7 +2,7 @@
 
 # DESIGN TO REACT
 
-> A collection of React apps built by Oliver Gomes all the way from designing the UI to coding it into live React app. The build up is amazingly documented via videos that can be found on Youtube Channel, process blogged on Medium & designed overviewed on Behance
+> A collection of React apps built by Oliver Gomes all the way from designing the UI to coding it into live React app. The build-up is documented via videos on Youtube, blog on Medium & design overview on Behance
 
 ## Projects
 
