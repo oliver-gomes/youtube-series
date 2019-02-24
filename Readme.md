@@ -6,4 +6,4 @@
 
 | No. |   Preview    |              Description              | Status |
 | :-: | :----------: | :-----------------------------------: | :----: |
-| 01  | Landing Page | <img src="images/01.png" width="100"> |   🛠    |
+| 01  | Landing Page | <img src="images/01.png" width="500"> |   🛠    |
