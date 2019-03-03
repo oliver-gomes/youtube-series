@@ -6,9 +6,10 @@
 
 ## Projects
 
-| No. |   Preview    |                                            Description                                            |    Youtube     |       Behance       | Status |
-| :-: | :----------: | :-----------------------------------------------------------------------------------------------: | :------------: | :-----------------: | :----: |
-| 01  | Landing Page | ![01 design](https://raw.githubusercontent.com/oliver-gomes/design-to-react/master/images/01.png) | [youtube][yt1] | [behance][behance1] |   ✅   |
+| No. |       Preview        |                                            Description                                            |    Youtube     |       Behance       | Status |
+| :-: | :------------------: | :-----------------------------------------------------------------------------------------------: | :------------: | :-----------------: | :----: |
+| 01  |     Landing Page     | ![01 design](https://raw.githubusercontent.com/oliver-gomes/design-to-react/master/images/01.png) | [youtube][yt1] | [behance][behance1] |   ✅   |
+| 02  | Dribbble Design Page | ![02 design](https://raw.githubusercontent.com/oliver-gomes/design-to-react/master/images/02.png) |       🔜       |         🔜          |   🛠    |
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [yt1]: https://www.youtube.com/watch?v=9yO2bhMKEjA
