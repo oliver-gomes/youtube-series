@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+body {
+  font-family: "Raleway";
+}
+
+.band {
+  width: 500px;
+  height: 500px;
+
+  background: url("./band.png") no-repeat;
+}
