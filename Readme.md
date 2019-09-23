@@ -1,8 +1,6 @@
-![project image](https://raw.githubusercontent.com/oliver-gomes/design-to-react/master/images/react%20design.png)
+# Youtube Video Series
 
-# DESIGN TO REACT
-
-> A collection of React apps built by Oliver Gomes all the way from designing the UI to coding it into live React app. The build-up is documented via videos on Youtube, blog on Medium & design overview on Behance
+> A collection of Website built by Oliver Gomes all the way from designing the UI to coding . The build-up is documented via videos on Youtube.
 
 ## Projects
 
