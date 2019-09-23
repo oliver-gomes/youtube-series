@@ -16,5 +16,3 @@
 [yt2]: https://youtu.be/TxLjRV2rMgo
 [behance2]: https://www.behance.net/gallery/77017863/Design-to-React-Event-Page
 [yt3]: https://www.youtube.com/watch?v=o5SewA2x2TI
-
-[behance2]:
