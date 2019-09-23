@@ -25,6 +25,7 @@ header {
   font-weight: 500;
   font-size: 18px;
 }
+
 nav {
   flex: 2;
 }
@@ -39,6 +40,7 @@ nav {
   color: black;
   text-decoration: none;
 }
+
 .right-nav {
   flex: 1;
   display: flex;
@@ -79,6 +81,7 @@ main {
 .phone {
   flex: 1;
 }
+
 .phone img {
   height: 800px;
 }
@@ -89,6 +92,7 @@ main {
   right: 0px;
   z-index: -1;
 }
+
 @media screen and (max-width: 1024px) {
   main {
     margin-top: 20px;
@@ -99,14 +103,16 @@ main {
     font-size: 30px;
   }
 
-  .info h1 {
+  .info h1 {fi
     font-size: 70px;
   }
 
   .info p {
     font-size: 25px;
   }
+
   .pattern {
     display: none;
   }
 }
+
