@@ -1,0 +1,112 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  height: 100vh;
+}
+
+header {
+  display: flex;
+  width: 90%;
+  height: 10vh;
+  align-items: center;
+  margin: 0px auto;
+}
+
+.logo {
+  flex: 1;
+}
+
+.logo h4 {
+  font-weight: 500;
+  font-size: 18px;
+}
+nav {
+  flex: 2;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.nav-link {
+  color: black;
+  text-decoration: none;
+}
+.right-nav {
+  flex: 1;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.right-nav i {
+  float: right;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.info {
+  flex: 1;
+}
+
+.info h4 {
+  font-size: 60px;
+}
+
+.info h1 {
+  font-size: 90px;
+}
+
+.info p {
+  font-size: 30px;
+  width: 70%;
+  border-spacing: 20px;
+  margin-bottom: 20px;
+  border-bottom: 3px solid rgb(61, 61, 61);
+}
+
+.phone {
+  flex: 1;
+}
+.phone img {
+  height: 800px;
+}
+
+.pattern {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  z-index: -1;
+}
+@media screen and (max-width: 1024px) {
+  main {
+    margin-top: 20px;
+    flex-direction: column;
+  }
+
+  .info h4 {
+    font-size: 30px;
+  }
+
+  .info h1 {
+    font-size: 70px;
+  }
+
+  .info p {
+    font-size: 25px;
+  }
+  .pattern {
+    display: none;
+  }
+}
